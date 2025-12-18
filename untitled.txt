@@ -1,0 +1,6 @@
+Pak nas memulai perkuliahan dengan mempresentasikan pemograman, setelah itu kita mempelajari kombinasi masalah pertama berupa berapa banyak kemungkinan kombinasi password yang berupa 26 upper dan 26 lower case. Masalah kedua, berupa nilai terkecil dan terbesar dari Unsigned Int. Masalah ketiga, berupa bilangan double yang dimana angka terbesar berupa 2^64 / 1,84 x 10^19.
+
+ctt: 	uint = 0 - 4.3B
+		int = -2.15B - 2.15B
+		float = 0,000 000 000 - 4.294 967 296
+		double = 

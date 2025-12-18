@@ -1,0 +1,18 @@
+1. Wawasan Dosen
+	Kelompok kami belum memenuhi goal yang diinginkan Pak Nas.
+	Libary hanya untuk normalisasi, misal angka 01 diubah menjadi b.
+	Hindari penggunaan AI yang terlalu berlebihan, misalnya menggunakan AI dari awal hingga akhir proyek, namun Pak Nas berkata bahwa penggunaan AI sebenarnya membantu, contoh untuk mengetahui beberapa syntax.
+
+	Numpy adalah library Matematika paling dasar sehingga dosen mengizinkan untuk menggunakannya, apabila mahasiswa memiliki curiosity yang banyak, maka lib numpy dibangun sendiri. Untuk perjumlahan,pengurangan dan perkalian sudah dilakukan oleh processor, maka dari itu jika pangkat kita menggunakan numpy. 
+
+	Apa itu metode numerik ? metode numerik adalah cara mencari solusi numerik dengan trial and error (menebak - menebak) dengan sejumlah iterasi.
+
+2. Advice apa yang disampaikan dosen sore ini ?
+	Menggunakan AI hanya untuk mencari syntax dan tidak digunakan secara berlebihan.
+
+3. Ilmu MatDis apa yang anda peroleh sore ini ?		
+Topik induksi dan rekursi adalah ilmu matematika murni yang dianggap masih relevan didalam sarjana informatika, meskipun pembuktiannya bersifat analitik, ilmu ini bersifat berpikir secara logis dari pada proyek program. Untuk membuktikan apakah kita bisa menaiki tangga tak terbatas kita bisa menggunakan teknik mathematical induction. Untuk rumus pola tersebut itu adalah rekursi, untuk membuktikan bahwa rumus itu benar itu adalah induksi. Asumsi bahwa P(k) itu benar adalah Inductive Hypothesis. Pak nas juga menjelaskan dipapan tulis apakah teori 
+(n(n+1)) / 2. 
+
+Misalkan mahasiswa sudah mampu menulis table dengan lengkap dan mampu membuktikan kesamaan secara aljabar, maka cara menyimpulkannya adalah :
+- Rumus rekursi diatas benar untuk bilangan 1,2,...,k(k+1).

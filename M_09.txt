@@ -1,0 +1,11 @@
+1. Pak nas menjelaskan judi, saham, dan crypto di komputer. Walaupun tidak ingat semua yang paling saya ingat adalah mending investasi emas. 
+
+2. filsuf muncul sebelum masehi, awal mulanya pemikir itu segala ilmu, filsuf pertama memikirkan semua hal dari dunia dan non-dunia habis itu filsuf bercabang ada yang ke matematika. Pythagoras itu filsuf yang berpikir kearah matematika. Informatika adalah anak dari ilmu komputer dan ilmu komputer lahir dari ilmu matematika. Pak nas juga menjelasan perbedaan judi, pinjol, dan saham.
+
+3. mempelajari kombinasi masalah pertama berupa berapa banyak kemungkinan kombinasi password yang berupa 26 upper dan 26 lower case. Masalah kedua, berupa nilai terkecil dan terbesar dari Unsigned Int. Masalah ketiga, berupa bilangan double yang dimana angka terbesar berupa 2^64 / 1,84 x 10^19. Masalah ke empat tetang bit yaitu 4 bit dan 5 bit
+
+ctt: 	uint = 0 - 4.3B
+		int = -2.15B - 2.15B
+		float = 0,000 000 000 - 4.294 967 296
+
+4. 95
